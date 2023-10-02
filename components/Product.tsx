@@ -66,7 +66,7 @@ const Product = () => {
 	}, []);
 	return (
 		<div
-			className="mt-[68px] 2xl:px-[250px] z-50 fixed w-full px-[150px] bg-white mb-[30px]"
+			className="mt-[68px] 2xl:px-[300px] z-50 fixed w-full px-[150px] bg-white mb-[30px]"
 			ref={myBox}
 		>
 			<div className="flex gap-x-4  h-auto">
