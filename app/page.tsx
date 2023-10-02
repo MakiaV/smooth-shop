@@ -20,11 +20,11 @@ export default function Home() {
 	}, []);
 
 	return (
-		<div className="relative ">
+		<div className="relative">
 			<Header />
 
 			<Product />
-			<div className="py-[400px] px-[150px]">
+			<div className="py-[400px] px-[150px]  2xl:px-[200px]">
 				<ProductDetails />
 			</div>
 		</div>
