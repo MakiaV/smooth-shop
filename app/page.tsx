@@ -25,19 +25,6 @@ export default function Home() {
 
 			<Product />
 			<div className="py-[400px] px-[150px]">
-				<div className="py-8">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-					Sapiente inventore sed omnis quis, esse veniam sit dolore
-					deleniti magnam! Deserunt, vero? Aut laborum modi doloribus
-					accusamus rerum inventore et illo! Lorem ipsum dolor sit
-					amet, consectetur adipisicing elit. Sapiente inventore sed
-					omnis quis, esse veniam sit dolore deleniti magnam!
-					Deserunt, vero? Aut laborum modi doloribus accusamus rerum
-					inventore et illo! Lorem ipsum dolor sit amet, consectetur
-					adipisicing elit. Sapiente inventore sed omnis quis, esse
-					veniam sit dolore deleniti magnam! Deserunt, vero? Aut
-					laborum modi doloribus accusamus rerum inventore et illo!
-				</div>
 				<ProductDetails />
 			</div>
 		</div>
