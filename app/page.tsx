@@ -24,7 +24,7 @@ export default function Home() {
 			<Header />
 
 			<Product />
-			<div className="py-[400px] px-[150px]  2xl:px-[200px]">
+			<div className="py-[400px] px-[150px]  2xl:px-[250px]">
 				<ProductDetails />
 			</div>
 		</div>
